@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 version sur master...
 Modif dans la branche_1
